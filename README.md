@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @Williams-web
 
-I am a computer science student at the University of Ghana, and I have a passion for Java programming.
+I am a computer science student at the University of Ghana, and I have a passion for Mobile app development and Java programming.
 
-- 🌱 I’m currently enhancing my Java skills and exploring new technologies.
-- 👀 I’m interested in software development, artificial intelligence, and data science.
+- 🌱 I’m currently enhancing my mobile development skills with React Native and Expo and exploring new technologies.
+- 👀 I’m interested in software development and artificial intelligence
 - 💞️ I’m looking to collaborate on open-source projects and innovative software solutions.
 - 📫 How to reach me: [Email](yarowilliams402@gmail.com)
 - 😄 Pronouns: He/Him
